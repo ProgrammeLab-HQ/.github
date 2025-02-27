@@ -1,4 +1,3 @@
-# .github
 [<img width="2206" alt="" src="https://github.com/ProgrammeLab-HQ/.github/blob/main/images/programmelab-image-1.png">](https://www.programmelab.com)
 
 # 👋 Hey there! We're ProgrammeLab
