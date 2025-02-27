@@ -18,5 +18,5 @@ Try our plugins: https://profiles.wordpress.org/programmelab/#content-plugins
 
 ## Get In Touch
 <p align="center">
-<a href="http://programmelab.com/" target="_blank" rel="noopener noreferrer">Link</a>><img src="https://github.com/ProgrammeLab-HQ/.github/blob/main/images/programmelab-image-2.png" width="850"></a>
+<a href="http://programmelab.com/" target="_blank" rel="noopener noreferrer"<img src="https://github.com/ProgrammeLab-HQ/.github/blob/main/images/programmelab-image-2.png" width="850"></a>
 </p>
