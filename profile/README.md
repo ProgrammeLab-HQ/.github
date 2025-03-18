@@ -1,6 +1,6 @@
 # 👋 Hey there! We're ProgrammeLab
 
-We are a WordPress and WooCommerce shop with a goal to build world class solutions for customers.
+We are a WordPress and WooCommerce shop with a goal to build world class solutions for our customers.
 
 ## Our Current products include:
 
