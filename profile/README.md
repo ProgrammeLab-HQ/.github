@@ -4,8 +4,8 @@ We are a WordPress and WooCommerce shop that builds world-class solutions for ou
 
 ## Our Current products include:
 
-* Ultimate Security - All in Security Toolkit for WordPress
-* Upgrade Store - All in Store Toolkit for WooCommerce
+* [Ultimate Security - All in Security Toolkit for WordPress](https://wordpress.org/plugins/ultimate-security/)
+* [Access Control - Effortlessly manage permissions and capabilities](https://wordpress.org/plugins/access-control/)
 
 ---
 
